@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\melia\\onedrive\\documents\\cours\\2026-2027\\oo system\\tp3 - unity3d\\assets\\scripts\\beziercameraflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beziercameraflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\melia\\onedrive\\documents\\cours\\2026-2027\\oo system\\tp3 - unity3d\\assets\\scripts\\beziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\melia\\onedrive\\documents\\cours\\2026-2027\\oo system\\tp3 - unity3d\\assets\\scripts\\monstercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monstercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\melia\\onedrive\\documents\\cours\\2026-2027\\oo system\\tp3 - unity3d\\assets\\scripts\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\melia\\onedrive\\documents\\cours\\2026-2027\\oo system\\tp3 - unity3d\\assets\\scripts\\healthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\melia\\onedrive\\documents\\cours\\2026-2027\\oo system\\tp3 - unity3d\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\melia\\onedrive\\documents\\cours\\2026-2027\\oo system\\tp3 - unity3d\\assets\\scripts\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\melia\\onedrive\\documents\\cours\\2026-2027\\oo system\\tp3 - unity3d\\assets\\inputsystem_actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\inputsystem_actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\melia\\onedrive\\documents\\cours\\2026-2027\\oo system\\tp3 - unity3d\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BezierCameraFlight.cs",
+              "DocumentMoniker": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\BezierCameraFlight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BezierCameraFlight.cs",
+              "ToolTip": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\BezierCameraFlight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BezierCameraFlight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T19:27:53.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BezierCurve.cs",
+              "DocumentMoniker": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\BezierCurve.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BezierCurve.cs",
+              "ToolTip": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\BezierCurve.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BezierCurve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T16:13:51.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthBarUI.cs",
+              "DocumentMoniker": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\HealthBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBarUI.cs",
+              "ToolTip": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\HealthBarUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBarUI.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvycAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:32:23.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetectionZone.cs",
+              "DocumentMoniker": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\DetectionZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DetectionZone.cs",
+              "ToolTip": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\DetectionZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DetectionZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:23:39.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonsterController.cs",
+              "DocumentMoniker": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\MonsterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MonsterController.cs",
+              "ToolTip": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\MonsterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MonsterController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwHkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:21:20.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAA0wJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T12:14:07.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
+              "ToolTip": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:13:39.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DayNightCycle.cs",
+              "DocumentMoniker": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\DayNightCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DayNightCycle.cs",
+              "ToolTip": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\Scripts\\DayNightCycle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DayNightCycle.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T20:42:41.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputSystem_Actions.cs",
+              "DocumentMoniker": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\InputSystem_Actions.cs",
+              "RelativeDocumentMoniker": "Assets\\InputSystem_Actions.cs",
+              "ToolTip": "C:\\Users\\melia\\OneDrive\\Documents\\Cours\\2026-2027\\OO System\\TP3 - Unity3D\\Assets\\InputSystem_Actions.cs",
+              "RelativeToolTip": "Assets\\InputSystem_Actions.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T20:22:11.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
